@@ -101,7 +101,7 @@ ms.locfileid: "92007155"
 1. Найдите **Visual Studio 2019** .
 1. Выберите **Удалить** .
 1. Затем найдите **Microsoft Visual Studio Installer** .
-1. Выберите **Удалить** .
+1. Выберите **Удалить** ..
 
 ::: moniker-end
 
